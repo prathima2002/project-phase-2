@@ -1,5 +1,7 @@
 /**Project-Phase-2**
+
 /**Prediction Of Smartphone Addiciton using Machine Learning**
+
 /**About**
 Smartphone addiction has become a growing concern in recent years, with increasing numbers of people exhibiting symptoms such as excessive phone use, loss of productivity, and even physical and psychological health problems. As a result, there is a need to develop effective tools for predicting smartphone addiction and identifying those at risk.In this study, we developed a machine learning model for predicting smartphone addiction using data collected from a survey of smartphone users.
 **Features**
