@@ -15,4 +15,5 @@ IDE                : Pycharm.
 Libraries Used     : Numpy,IO,OS,Django,keras.
 Technology         : Python 3.6+.
 /**System Architecture**
+![image](https://github.com/prathima2002/project-phase-2/assets/108709865/3f4f2f72-aa44-4f08-aff5-ca22d85a7138)
 
